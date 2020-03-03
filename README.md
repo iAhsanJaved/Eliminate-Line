@@ -1,5 +1,5 @@
-# Eliminate-Words
-❌ Eliminate words from the text and csv files using Python
+# Eliminate-Lines
+❌ Eliminate lines that contain stop words from the text and CSV files using Python
 
 ## Output
 ![](demo.gif)
